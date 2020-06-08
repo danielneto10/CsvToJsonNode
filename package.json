@@ -1,0 +1,15 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Neto",
+  "license": "ISC",
+  "dependencies": {
+    "execution-time": "^1.4.1",
+    "papaparse": "^5.2.0"
+  }
+}
